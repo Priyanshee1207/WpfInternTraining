@@ -1,0 +1,8 @@
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\bin\Debug\Employee management.exe.config
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\bin\Debug\Employee management.exe
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\bin\Debug\Employee management.pdb
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\obj\Debug\Employee management.csproj.AssemblyReference.cache
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\obj\Debug\Employee management.csproj.CoreCompileInputs.cache
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\obj\Debug\Employee management.exe
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\obj\Debug\Employee management.pdb
+C:\BLOB STATION\Git and Github\WpfInternTraining\Phase3_CSharp_POCs\POC02_EmployeeManagement\Employee management\Employee management\obj\Debug\Employee management.exe.config

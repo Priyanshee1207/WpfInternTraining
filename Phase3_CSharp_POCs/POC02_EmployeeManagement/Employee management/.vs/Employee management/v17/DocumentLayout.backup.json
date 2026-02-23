@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BLOB STATION\\Git and Github\\WpfInternTraining\\Phase3_CSharp_POCs\\POC02_EmployeeManagement\\Employee management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD14AABF-C2F2-428F-AED4-4B66075D9AF5}|Employee management\\Employee management.csproj|c:\\blob station\\git and github\\wpfinterntraining\\phase3_csharp_pocs\\poc02_employeemanagement\\employee management\\employee management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD14AABF-C2F2-428F-AED4-4B66075D9AF5}|Employee management\\Employee management.csproj|solutionrelative:employee management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BLOB STATION\\Git and Github\\WpfInternTraining\\Phase3_CSharp_POCs\\POC02_EmployeeManagement\\Employee management\\Employee management\\Program.cs",
+              "RelativeDocumentMoniker": "Employee management\\Program.cs",
+              "ToolTip": "C:\\BLOB STATION\\Git and Github\\WpfInternTraining\\Phase3_CSharp_POCs\\POC02_EmployeeManagement\\Employee management\\Employee management\\Program.cs*",
+              "RelativeToolTip": "Employee management\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T05:40:23.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
